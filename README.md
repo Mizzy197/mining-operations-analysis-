@@ -38,9 +38,10 @@ This project includes an operational performance dashboard built in Tableau to s
 - Operational monitoring identified recurring downtime events across mining sites, highlighting opportunities for preventative maintenance strategies.
 
 # Dashboard Preview
-![Dashboard Preview](Project 1 Dashboard.png)
+
+![Dashboard Preview](dashboard-screenshot.png)
 
 # Repository Contents
-- `sheet1-1 mining operations - dataset.csv`
 - `analysis.sql`
+- `mining_operations_dataset.csv`
 - `dashboard-screenshot.png`
