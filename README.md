@@ -1,29 +1,46 @@
 # Mining Operations Performance Analysis
 
 # Overview
-This project analyses operational data from a mining environment to identify downtime patterns and operational inefficiencies across equipment and sites.
+This project analyses operational data from a mining environment to identify downtime patterns, operational inefficiencies, and maintenance prioritisation opportunities across mining equipment and operational sites.
 
 # Objectives
-- Identify equipment with the highest downtime
-- Analyse operational performance across mining sites
-- Understand overall operational reliability
+- Identify equipment with the highest downtime frequency
+- Analyse downtime trends across reporting periods
+- Understand operational reliability patterns
+- Support operational improvement and maintenance decision-making
 
 # Tools Used
 - SQL
+- Tableau
 - Excel
 - GitHub
 
 # Analysis Performed
 The analysis focused on:
-- Equipment downtime frequency
-- Site-level operational performance
-- Operational status distribution
+- Equipment downtime frequency analysis
+- Downtime trend monitoring over time
+- Operational KPI tracking
+- Operational performance visualisation
+- Executive insight reporting
+
+# Dashboard Visualisation
+This project includes an operational performance dashboard built in Tableau to support downtime monitoring, maintenance prioritisation, and operational risk visibility.
+
+# Dashboard Features
+- Equipment downtime frequency analysis
+- Downtime trend monitoring over time
+- Operational KPI tracking
+- Executive insight summaries and recommendations
 
 # Key Insights
-- Certain equipment experienced significantly higher downtime events
-- Downtime patterns varied across operational sites
-- Results highlighted opportunities for maintenance optimisation and operational improvement
+- TRK-02 recorded the highest downtime frequency, indicating potential maintenance prioritisation requirements.
+- Downtime trends fluctuated across reporting periods, suggesting operational instability across assets.
+- Operational monitoring identified recurring downtime events across mining sites, highlighting opportunities for preventative maintenance strategies.
 
-# Files
+# Dashboard Preview
+![Dashboard Preview](Project 1 Dashboard.png)
+
+# Repository Contents
 - `sheet1-1 mining operations - dataset.csv`
 - `analysis.sql`
+- `dashboard-screenshot.png`
